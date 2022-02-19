@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "category": "Điện thoại",
+      "subName": "Iphone",
+      "product": "Product Iphone"
+    },
+    { "category": "Laptop", "subName": "Dell", "product": "Product Dell" },
+    {
+      "category": "Máy tính bảng",
+      "subName": "Ipad",
+      "product": "Product Ipad"
+    },
+    {
+      "category": "Âm thanh",
+      "subName": "Tai nghe",
+      "product": "Product Tai nghe"
+    },
+    {
+      "category": "Đồng hồ",
+      "subName": "Apple Watch",
+      "product": "Product Apple Watch"
+    },
+    {
+      "category": "Nhà thông minh",
+      "subName": "Nhà thông minh",
+      "product": "Product Nhà thông minh"
+    },
+    {
+      "category": "Phụ kiện",
+      "subName": "Phụ kiện",
+      "product": "Product Phụ kiện"
+    },
+    {
+      "category": "Thu cũ",
+      "subName": "Thu cũ",
+      "product": "Product Thu cũ"
+    },
+    {
+      "category": "Hàng cũ",
+      "subName": "Hàng cũ",
+      "product": "Product Hàng cũ"
+    },
+    {
+      "category": "Sim thẻ",
+      "subName": "Sim",
+      "product": "Product Sim"
+    },
+    {
+      "category": "Tin công nghệ",
+      "subName": "Tin",
+      "product": "Tin công nghệ"
+    },
+    {
+      "category": "Khuyến mãi",
+      "subName": "Discount",
+      "product": "Product Khuyến mãi"
+    },
+    {
+      "category": "Khác",
+      "subName": "Apple Watch",
+      "product": "Product Khác"
+    }
+  ]
+}
